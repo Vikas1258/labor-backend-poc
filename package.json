@@ -1,0 +1,20 @@
+{
+  "name": "labor-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "boom": "^3.2.2",
+    "hapi": "^13.4.1",
+    "inert": "^4.0.0",
+    "mysql": "^2.11.1",
+    "request": "^2.72.0",
+    "sequelize": "^3.23.4"
+  }
+}
